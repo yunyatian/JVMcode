@@ -1,4 +1,4 @@
-package charpter3.code;
+package chapter3.code;
 /**
  * 用来体会栈溢出并且设置栈大小的尝试
  * 不断尝试调用自身，从而导致StackOverflowError栈溢出异常

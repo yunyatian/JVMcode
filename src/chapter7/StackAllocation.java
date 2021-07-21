@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 /**
  * 栈上分配测试
  * -Xms1G -Xmx1G -XX:-DoEscapeAnalysis -XX:+PrintGCDetails

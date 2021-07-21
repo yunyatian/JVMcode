@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 
 /**
  * 1.-Xms 用来设置初始化堆空间（年轻代+老年代）的大小

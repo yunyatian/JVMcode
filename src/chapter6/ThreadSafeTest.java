@@ -1,4 +1,4 @@
-package charpter6;
+package chapter6;
 /**
  * 线程安全需要数据在方法内诞生，在方法结束的时候数据会随着方法的结束而销毁。
  * */

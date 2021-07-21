@@ -1,4 +1,4 @@
-package charpter4.code;
+package chapter4.code;
 /**
  * javap -v StackFrameTest.class查看编译后文件
  * */

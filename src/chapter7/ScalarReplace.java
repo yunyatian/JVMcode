@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 /**
  * -Xms100m -Xmx100m -XX:+DoEscapeAnalysis -XX:+PrintGC -XX:-EliminateAllocations
  * 不使用标量替换的情况下，花费时间为93ms，有GC，情况如下：

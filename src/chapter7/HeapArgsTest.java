@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 /**
  * 测试堆空间的JVM参数：
  * -XX:+PrintFlagsInitial:查看所有参数的默认配置

@@ -1,4 +1,4 @@
-package charpter5;
+package chapter5;
 
 /**
  * invokestatic指令和invokespecial指令调用的方法称为非虚方法

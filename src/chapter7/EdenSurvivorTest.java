@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 /**
  * -Xms600m -Xmx600m
  * -XX:NewRatio:配置老年代与新生代的比例，默认值为2

@@ -1,4 +1,4 @@
-package charpter2.code;
+package chapter2.code;
 
 import java.lang.String;
 

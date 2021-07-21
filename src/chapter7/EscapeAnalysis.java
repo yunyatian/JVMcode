@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 
 /**
  * 逃逸分析

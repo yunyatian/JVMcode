@@ -1,4 +1,4 @@
-package charpter7;
+package chapter7;
 
 public class HeapDemo1 {
     public static void main(String[] args) {
